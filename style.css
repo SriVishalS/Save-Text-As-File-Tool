@@ -2,6 +2,11 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: 'Teko', sans-serif;
+  letter-spacing: 3px;
+  font-weight: 700;
+  font-size: large;
+
 }
 body {
   display: flex;
